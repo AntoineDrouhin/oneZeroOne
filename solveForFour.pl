@@ -1,9 +1,9 @@
 % gprolog
-% consult("printer.pl")
+% consult("solveForFour.pl")
 % L = []
-% printer(L)
+% oneZeroOne(L)
 
-printer(L) :-
+oneZeroOne(L) :-
 
 L = [
     UNUN,
